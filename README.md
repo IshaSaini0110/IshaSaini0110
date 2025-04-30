@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/79724658/235264387-9579f7f5-87e0-49a1-850b-c5f548146e41.png" alt="Developer Banner" />
+![github-header-image (1)](https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d)
 <br/>
 
 🔭 I’m currently interning at **Amazon (SDE Intern)** working with AWS Services including Lambda, DynamoDB, and CloudWatch
