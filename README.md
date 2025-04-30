@@ -1,53 +1,89 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Isha.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Isha Saini</h1>
-<h3 align="center">A passionate Software Developer and AI Enthusiast from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<h3 align='center'>
+  A passionate Software Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishasaini0110&label=Profile%20views&color=0e75b6&style=flat" alt="ishasaini0110" /> </p>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=IshaSaini0110&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+<br/>
 
-- 🔭 I’m currently working on **AI-based learning tools and backend systems**
+<img src="https://user-images.githubusercontent.com/79724658/235264387-9579f7f5-87e0-49a1-850b-c5f548146e41.png" alt="Developer Banner" />
+<br/>
 
-- 🌱 I’m currently learning **advanced ML, AWS CDK, and distributed systems**
+🔭 I’m currently interning at **Amazon (SDE Intern)** working with AWS Services including Lambda, DynamoDB, and CloudWatch
 
-- 💬 Ask me about **Python, Java, AWS, Flask, or building scalable APIs**
+🏫 I’m pursuing **B.Tech in Computer Science (UIET, MDU)** and **BS in Data Science & Applications (IIT Madras)**
 
-- 🏆 Selected as **Amazon ML Summer School Scholar 2024**
+🔎 Actively exploring **Web Development, Cloud Computing, and AI**
 
-- 📫 How to reach me **ishasaini0110@gmail.com**
+💻 Portfolio Projects:
+- [EcoGizmo – E-waste Facility Locator](https://ishasaini0110.github.io/E-waste-Facility-Locator/)
+- [Face Recognition Attendance System](https://github.com/TusharRastogi04/Face-Recognition-Based-Attendance-System)
+- [Quiz Master – Exam Prep Platform](https://github.com/IshaSaini0110/Quiz-Master-22f3002690)
 
----
+💬 Ask me about **DSA, Flask, Python, Web Dev, AWS, Cloud, NLP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/isha-saini-48975824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isha-saini" height="30" width="40" /></a>
-<a href="mailto:ishasaini0110@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-</p>
+💗 I’m passionate about **Social Impact, Mentoring, and Innovation**
 
----
+## 🏆 Achievements
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
+- **Amazon ML Summer School Scholar** – Top 0.1% out of 85,000+ applicants
+- **Amazon Future Engineer** – Ranked top 500 out of 8,000 participants
+- **Reliance Foundation Scholar** – Among 40,000+ STEM students
+- **IncludeHer Mentee (SheBuildsOnAzure)** – Cloud & AI mentorship by Microsoft Azure
+- **Top Debater and Essay Writer** – 1st place at university level competitions
 
----
+## 💪 In Leadership Roles
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishasaini0110&show_icons=true&locale=en&layout=compact" alt="ishasaini0110" /></p>
-<br><br><br><br><br><br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishasaini0110&show_icons=true&locale=en" alt="ishasaini0110" /></p>
+- **Vice President** – Vivacious Voices (UIET English Club)
+- **Design Mentor** – GeekHub UIET (UI/UX Guidance)
+- **Content Lead** – DNS Society (Social media & content)
 
----
+📫 Feel free to connect or reach out: **ishasaini0110@gmail.com**
 
-⭐ *"Driven by code, inspired by purpose – building tech to serve and scale."*
+## 🔰 Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-saini-48975824b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshaSaini0110)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishasaini0110@gmail.com)
+
+## 💻 Tech Stack:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-CDK-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+## 🧠 Skills:
+
+- Web Development | API Design | Database Management | CI/CD | Cloud Services
+- Python (ML/NLP) | Model Fine-tuning | Ethical Hacking | Public Speaking
+
+## 🏆 Certificates:
+
+- **FLY Scholar** – Competitiveness Mindset Institute, USA
+- **OakNorth STEM Scholar**
+- **IncludeHer 4.0 – AI & Cloud Program**
+
+## 📊 GitHub Stats:
+
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=IshaSaini0110&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Github Stats" /></div>
+
+## 💫 Featured Projects:
+
+<div align="center"><a href="https://github.com/IshaSaini0110/Quiz-Master-22f3002690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IshaSaini0110&repo=Quiz-Master-22f3002690&cache_seconds=86400&theme=radical" alt="Quiz Master Repo" />
+</a></div>
+
 
