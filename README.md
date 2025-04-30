@@ -11,7 +11,7 @@
 </div>
 
 <br/>
-<img src="https://i.pinimg.com/originals/7d/9e/b0/7d9eb001d6b932b72cf1f54c64cbd735.jpg" alt="Tech Banner" width="100%" />
+![github-header-image (1)](https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d)
 <br/>
 
 🔬 Currently exploring **AWS Cloud Services**, **Web Development**, and **AI Integration**
@@ -29,7 +29,6 @@
 - [Face Recognition Attendance](https://github.com/TusharRastogi04/Face-Recognition-Based-Attendance-System) – Real-time attendance using OpenCV 📷  
 - [Quiz Master](https://github.com/IshaSaini0110/Quiz-Master-22f3002690) – Flask-based quiz system with multi-role support 🧠  
 
-📄 [View My Resume](https://drive.google.com/file/d/1iMRGLNUl15pbYCxs63AtB2r1BKAgpWxJ/view?usp=sharing)
 
 📫 Reach me at: **ishasaini0110@gmail.com**
 
