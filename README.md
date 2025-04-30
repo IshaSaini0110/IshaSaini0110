@@ -18,6 +18,12 @@
 
 🌱 Learning about **Machine Learning**, **System Design**, and **Cloud Architecture**
 
+💼 **Software Development Engineer Intern @ Amazon**  
+📍 *June 2024 – August 2024*  
+- Worked with AWS services like Lambda, SQS, SNS, SES, CloudFormation, and DynamoDB  
+- Designed and implemented APIs for e-invoice failure handling and email alerts  
+- Technologies: Java, TypeScript, Smithy, CDK, CI/CD, Mockito  
+
 🛠 Recent Projects:
 - [EcoGizmo](https://ishasaini0110.github.io/E-waste-Facility-Locator/) – E-waste locator with Mapbox API ♻️  
 - [Face Recognition Attendance](https://github.com/TusharRastogi04/Face-Recognition-Based-Attendance-System) – Real-time attendance using OpenCV 📷  
@@ -80,6 +86,7 @@
 ---
 
 ⭐ *Thanks for visiting! Let's create something impactful together.*
+
 
 
 
