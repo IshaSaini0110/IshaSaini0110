@@ -14,6 +14,7 @@
 <img src="https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d" alt="Research and Dev Banner" width="100%" />
 <br/>
 
+
 🔬 Currently exploring **AWS Cloud Services**, **Web Development**, and **AI Integration**
 
 🌱 Learning about **Machine Learning**, **System Design**, and **Cloud Architecture**
@@ -79,8 +80,6 @@
 - 🧠 **Amazon Future Engineer Top 500**
 - 🏅 **Reliance Foundation STEM Scholar**
 - ☁️ **IncludeHer - SheBuildsOnAzure Mentee**
-- 🥇 **University Debate & Essay Writing Champion**
-- 🏆 **Merit Certificate – Top 0.1% in Social Sciences**
 
 ---
 
