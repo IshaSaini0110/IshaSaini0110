@@ -11,7 +11,7 @@
 </div>
 
 <br/>
-![github-header-image (1)](https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d)
+<img src="https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d" alt="Research and Dev Banner" width="100%" />
 <br/>
 
 🔬 Currently exploring **AWS Cloud Services**, **Web Development**, and **AI Integration**
