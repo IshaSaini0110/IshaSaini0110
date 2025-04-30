@@ -11,7 +11,7 @@
 </div>
 
 <br/>
-<img src="https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d" alt="Research and Dev Banner" width="100%" />
+<img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/65725709c91402ab52b1c2b9_Best%207%2B%20Coding%20Languages%20for%20a%20SaaS%20Tech%20Stack%202023%20Guide.webp" alt="Research and Dev Banner" width="100%" />
 <br/>
 
 
